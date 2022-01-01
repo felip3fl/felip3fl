@@ -1,7 +1,8 @@
-<h1 align="center"> <img src="https://user-images.githubusercontent.com/20684484/147514876-bf3dec5a-3afd-4d13-9e55-1624772f1ad4.png" width="200" align="center">
+<h1 align="center"> <img src="https://user-images.githubusercontent.com/20684484/147861786-bcbfd1a9-9967-4d7e-a61f-8b32c9d0058b.png" width="200" align="center">
 <br>@Felip3FL
 </h1>
-     
+  
+
 
 <br>
 
@@ -20,6 +21,9 @@ More than 8 years of experience in software development, applying what is most m
 <br>
 
 ## ✔️ Techniques and Technologies
+
+<img width="210" align="right" src="https://user-images.githubusercontent.com/20684484/147861246-32dd0d18-7b6e-427a-9619-c50352e03205.png">
+
 
 - ``.NET FULL Framework (C#, VB)``
 - ``.NET CORE 2.X, 3.X``
@@ -43,9 +47,12 @@ More than 8 years of experience in software development, applying what is most m
 
 ## 📒 Author
 
-| [<img src="https://github.com/felip3fl/FL_IMAGE_REPOSITORY/blob/main/Nick/XboxAvatar3.png?raw=true" width=115><br><sub>Felipe Lima</sub>](https://github.com/felip3fl) | 
+| [<img src="https://user-images.githubusercontent.com/20684484/147861648-a25d79ff-4fd3-4985-874a-ed7c3984beba.png?raw=true" width=115><br><sub>Felipe Lima</sub>](https://github.com/felip3fl) | 
 | :---: 
+
+
   
+
 <br>
 
 <!---
