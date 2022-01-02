@@ -1,16 +1,15 @@
-<h1 align="center"> <img src="https://user-images.githubusercontent.com/20684484/147876983-fbd67b97-c053-4c88-9111-019a0704f232.png" width="200" align="center">
+<h1 align="center">  <img src="https://user-images.githubusercontent.com/20684484/147876983-fbd67b97-c053-4c88-9111-019a0704f232.png" width="200" align="center">
 <br>Felipe Lima
 </h1>
 
-
 <br>
 
-<h1 align="center"> 
+<p align="center"> 
   <img width="50" align="center" src="https://user-images.githubusercontent.com/20684484/147878731-437748b7-a89d-4f1a-9afc-1e33ab28fe83.png">
   <img width="50" align="center" src="https://user-images.githubusercontent.com/20684484/147878977-4070878f-038e-4dea-8e01-df6dab8fca3c.png">
-  <img width="50" align="center" src="https://user-images.githubusercontent.com/20684484/147883902-2c6c7b5a-5ef6-4d68-b704-14bb83cd63ed.png">
+  <img width="50" align="center" src="https://user-images.githubusercontent.com/20684484/147884298-4948cdd0-0834-4dbd-ac23-e1dcfe1adbc4.png">
 
-</h1>
+</p>
 <br>
 
 ## 👨‍💻 Description
@@ -51,6 +50,23 @@ More than 8 years of experience in software development, applying what is most m
 - ``Docker``
 - ``GIT``
 
+
+
+<!---
+felip3fl/felip3fl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+<br>
+
+## 📈 Stats
+
+<a href="https://github.com/felip3fl">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=felip3fl&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felip3fl&layout=compact&langs_count=8"/>
+</a>
+
+<br>
 <br>
 
 ## 📒 Author
@@ -58,12 +74,4 @@ More than 8 years of experience in software development, applying what is most m
 | [<img src="https://user-images.githubusercontent.com/20684484/147861648-a25d79ff-4fd3-4985-874a-ed7c3984beba.png?raw=true" width=115><br><sub>Felipe Lima</sub>](https://github.com/felip3fl) | 
 | :---: 
 
-
-  
-
 <br>
-
-<!---
-felip3fl/felip3fl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
