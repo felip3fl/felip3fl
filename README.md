@@ -5,6 +5,12 @@
 
 <br>
 
+
+  <img width="50" align="center" src="https://user-images.githubusercontent.com/20684484/147878731-437748b7-a89d-4f1a-9afc-1e33ab28fe83.png">
+  <img width="50" align="center" src="https://user-images.githubusercontent.com/20684484/147878977-4070878f-038e-4dea-8e01-df6dab8fca3c.png">
+
+<br>
+
 ## 👨‍💻 Description
 
 More than 8 years of experience in software development, applying what is most modern in the technology. I work with dot.net platform (C# and VB), using SOLID and design patterns. Graduated in Computer Science, and post-graduated in Software Engineering at PUC-SP (Specialization).
@@ -19,9 +25,10 @@ More than 8 years of experience in software development, applying what is most m
 
 <br>
 
+
 ## ✔️ Techniques and Technologies
 
-<img width="210" align="right" src="https://user-images.githubusercontent.com/20684484/147861246-32dd0d18-7b6e-427a-9619-c50352e03205.png">
+<img width="210"  align="right" src="https://user-images.githubusercontent.com/20684484/147861246-32dd0d18-7b6e-427a-9619-c50352e03205.png">
 
 
 - ``.NET FULL Framework (C#, VB)``
