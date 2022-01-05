@@ -1,4 +1,4 @@
-<h1 align="center">  <img src="https://user-images.githubusercontent.com/20684484/147876983-fbd67b97-c053-4c88-9111-019a0704f232.png" width="200" align="center">
+<h1 align="center">  <img src="https://user-images.githubusercontent.com/20684484/148286936-92733ba7-c5df-4d8e-9a87-b9859d708212.png" width="200" align="center">
 <br>Felipe Lima
 </h1>
 
@@ -7,16 +7,16 @@
 <p align="center"> 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-  <img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
-  <img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+<img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+&nbsp;&nbsp;<img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+&nbsp;&nbsp;<img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+&nbsp;&nbsp;<img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+&nbsp;&nbsp;<img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+&nbsp;&nbsp;<img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+&nbsp;&nbsp;<img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+&nbsp;&nbsp;<img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+&nbsp;&nbsp;<img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+&nbsp;&nbsp;<img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   
 
 </p>
