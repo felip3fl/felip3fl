@@ -45,18 +45,19 @@ More than 8 years of experience in software development, applying what is most m
 
 - ``.NET FULL Framework (C#, VB)``
 - ``.NET CORE 2.X, 3.X``
-- ``.NET Framework 5, 6``
+- ``.NET Framework 5, 6, 7``
 - ``ASP.NET MVC (C#)``
 - ``JavaScript, HTML e CSS``
 - ``SQL Server Integration Services (SSIS)``
 - ``Oracle 12c``
 - ``MySQL``
 - ``SQL Server``
+- ``Azure``
 - ``Azure DevOps``
 - ``Flutter``
 - ``MongoDB``
 - ``Xamarin``
-- ``Angular/cli``
+- ``Angular``
 - ``Regex``
 - ``Docker``
 - ``GIT``
