@@ -40,7 +40,8 @@ More than 8 years of experience in software development, applying what is most m
 
 ## ✔️ Techniques and Technologies
 
-<img width="210"  align="right" src="https://user-images.githubusercontent.com/20684484/147861246-32dd0d18-7b6e-427a-9619-c50352e03205.png">
+<img width="310"  align="right" src="https://user-images.githubusercontent.com/20684484/212372993-1548503f-2306-4e29-990f-2b8a31e33bc8.png">
+
 
 
 - ``.NET FULL Framework (C#, VB)``
