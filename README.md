@@ -1,4 +1,4 @@
-<h1 align="center">  <img src="https://user-images.githubusercontent.com/20684484/148286936-92733ba7-c5df-4d8e-9a87-b9859d708212.png" width="200" align="center">
+<h1 align="center">  <img src="https://user-images.githubusercontent.com/20684484/212375608-804dbd0c-9acf-4aa0-847f-a717c6cbf0a5.png" width="200" align="center">
 <br>Felipe Lima
 </h1>
 
