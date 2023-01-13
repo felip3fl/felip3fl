@@ -84,7 +84,9 @@ You can click the Preview link to take a look at your changes.
 
 ## 📒 Author
 
-| [<img src="https://user-images.githubusercontent.com/20684484/147861648-a25d79ff-4fd3-4985-874a-ed7c3984beba.png?raw=true" width=115><br><sub>Felipe Lima</sub>](https://github.com/felip3fl) | 
+| [<img src="https://user-images.githubusercontent.com/20684484/212379017-e56ad9f2-6351-447d-afc1-1f5286ae7191.jpg" width=115><br><sub>Felipe Lima</sub>](https://github.com/felip3fl) | 
 | :---: 
+
+
 
 <br>
