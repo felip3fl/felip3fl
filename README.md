@@ -25,7 +25,7 @@
 
 ## 👨‍💻 Description
 
-More than 8 years of experience in software development, applying what is most modern in the technology. I work with dot.net platform (C# and VB), using SOLID and design patterns. Graduated in Computer Science, and post-graduated in Software Engineering at PUC-SP (Specialization).
+More than 9 years of experience in software development, applying what is most modern in the technology. I work with dot.net platform (C# and VB), using SOLID and design patterns. Graduated in Computer Science, and post-graduated in Software Engineering at PUC-SP (Specialization).
 
 <br>
 
