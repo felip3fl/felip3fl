@@ -48,6 +48,7 @@ More than 8 years of experience in software development, applying what is most m
 - ``.NET CORE 2.X, 3.X``
 - ``.NET Framework 5, 6, 7``
 - ``ASP.NET MVC (C#)``
+- ``Typescript``
 - ``JavaScript, HTML e CSS``
 - ``SQL Server Integration Services (SSIS)``
 - ``Oracle 12c``
