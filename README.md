@@ -1,23 +1,35 @@
-<h1 align="center">  <img src="https://user-images.githubusercontent.com/20684484/212375608-804dbd0c-9acf-4aa0-847f-a717c6cbf0a5.png" width="200" align="center">
-<br>Felipe Lima
-</h1>
+<br />
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/20684484/212375608-804dbd0c-9acf-4aa0-847f-a717c6cbf0a5.png" width="200">
+
+  <h2 align="center">FELIPE LIMA</h2>
+
+  <p align="center">
+    A software development
+    <br />
+    <br />
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">&nbsp;&nbsp;
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">&nbsp;&nbsp;
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">&nbsp;&nbsp;
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;&nbsp;
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">&nbsp;&nbsp;
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">&nbsp;&nbsp;
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">&nbsp;&nbsp;
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">&nbsp;&nbsp;
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">&nbsp;&nbsp;
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">&nbsp;&nbsp;
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">&nbsp;&nbsp;
+  </p>
+</div>
+
+<h2>  
+</h2>
 
 <br>
 
-<p align="center"> 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<p> 
 
-<img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-&nbsp;&nbsp;<img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-&nbsp;&nbsp;<img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
-&nbsp;&nbsp;<img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-&nbsp;&nbsp;<img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-&nbsp;&nbsp;<img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-&nbsp;&nbsp;<img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-&nbsp;&nbsp;<img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-&nbsp;&nbsp;<img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-&nbsp;&nbsp;<img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-&nbsp;&nbsp;<img width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+
   
 
 </p>
@@ -31,9 +43,9 @@ More than 9 years of experience in software development, applying what is most m
 
 ## 💼 Main works / projects
 
-- `Project A1`: here is the description of the project that I will put <img src="https://img.shields.io/badge/STATUS-COMPLETE-blue" align="center" >
-- `Project 2`: here is the description of the project that I will put <img src="https://img.shields.io/badge/STATUS-WORKING-green" align="center" >
-- `Project 3`: here is the description of the project that I will put <img src="https://img.shields.io/badge/STATUS-STOPED-red" align="center" >
+- `Project A1`: here is the description of the project that I will put <img src="https://img.shields.io/badge/STATUS-COMPLETE-blue" >
+- `Project 2`: here is the description of the project that I will put <img src="https://img.shields.io/badge/STATUS-WORKING-green" >
+- `Project 3`: here is the description of the project that I will put <img src="https://img.shields.io/badge/STATUS-STOPED-red" >
 
 <br>
 
