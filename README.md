@@ -1,6 +1,6 @@
-<h1 align="center">  <img src="https://user-images.githubusercontent.com/20684484/212375608-804dbd0c-9acf-4aa0-847f-a717c6cbf0a5.png" width="200" align="center">
-<br>Felipe Lima
-</h1>
+<h3 align="center">  <img src="https://user-images.githubusercontent.com/20684484/212375608-804dbd0c-9acf-4aa0-847f-a717c6cbf0a5.png" width="200" align="center">
+<br><br>Felipe Lima
+</h3>
 
 <br>
 
