@@ -32,7 +32,19 @@
 
   
 
-</p>
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">&nbsp;&nbsp;
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">&nbsp;&nbsp;
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">&nbsp;&nbsp;
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;&nbsp;
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">&nbsp;&nbsp;
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">&nbsp;&nbsp;
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">&nbsp;&nbsp;
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">&nbsp;&nbsp;
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">&nbsp;&nbsp;
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">&nbsp;&nbsp;
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">&nbsp;&nbsp;
+ 
+</center>
 <br>
 
 ## 👨‍💻 Description
@@ -52,7 +64,7 @@ More than 9 years of experience in software development, applying what is most m
 
 ## ✔️ Techniques and Technologies
 
-<img width="310"  align="right" src="https://user-images.githubusercontent.com/20684484/212372993-1548503f-2306-4e29-990f-2b8a31e33bc8.png">
+<img width="310" align="right" src="https://user-images.githubusercontent.com/20684484/212372993-1548503f-2306-4e29-990f-2b8a31e33bc8.png">
 
 
 
@@ -88,8 +100,8 @@ You can click the Preview link to take a look at your changes.
 ## 📈 Stats
 
 <a href="https://github.com/felip3fl">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=felip3fl&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felip3fl&layout=compact&langs_count=8"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=felip3fl&show_icons=true&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felip3fl&layout=compact&langs_count=8"/>
 </a>
 
 <br>
