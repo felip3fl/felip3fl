@@ -27,7 +27,7 @@
 
 ## 👨‍💻 Description
 
-More than 8 years of experience in software development, applying what is most modern in the technology. I work with dot.net platform (C# and VB), using SOLID and design patterns. Graduated in Computer Science, and post-graduated in Software Engineering at PUC-SP (Specialization).
+More than 9 years of experience in software development, applying what is most modern in the technology. I work with dot.net platform (C# and VB), using SOLID and design patterns. Graduated in Computer Science, and post-graduated in Software Engineering at PUC-SP (Specialization).
 
 <br>
 
@@ -50,6 +50,7 @@ More than 8 years of experience in software development, applying what is most m
 - ``.NET CORE 2.X, 3.X``
 - ``.NET Framework 5, 6, 7``
 - ``ASP.NET MVC (C#)``
+- ``Typescript``
 - ``JavaScript, HTML e CSS``
 - ``SQL Server Integration Services (SSIS)``
 - ``Oracle 12c``
@@ -86,7 +87,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 📒 Author
 
-| [<img src="https://user-images.githubusercontent.com/20684484/212379017-e56ad9f2-6351-447d-afc1-1f5286ae7191.jpg" width=115><br><sub>Felipe Lima</sub>](https://github.com/felip3fl) | 
+| [<img src="https://github.com/felip3fl/felip3fl/blob/main/Material/Nick/nick1.jpg?raw=true" width=115><br><sub>Felipe Lima</sub>](https://github.com/felip3fl) | 
 | :---: 
 
 
