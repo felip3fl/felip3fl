@@ -2,9 +2,9 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/20684484/212375608-804dbd0c-9acf-4aa0-847f-a717c6cbf0a5.png" width="200">
 
-  <h3 align="center">FELIPE LIMA</h3>
+  <h3>FELIPE LIMA</h3>
 
-  <p align="center">
+  <div>
     A software development
     <br />
     <br />
@@ -19,7 +19,7 @@
     <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">&nbsp;&nbsp;
     <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">&nbsp;&nbsp;
     <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">&nbsp;&nbsp;
-  </p>
+  </div>
 </div>
 
 <br>
