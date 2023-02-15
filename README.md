@@ -4,7 +4,8 @@
 
   <h3>FELIPE LIMA</h3>
   A software development
-
+  <br>
+  <br>
   <div>
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">&nbsp;&nbsp;
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">&nbsp;&nbsp;
