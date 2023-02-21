@@ -47,11 +47,12 @@ More than 9 years of experience in software development, applying what is most m
 
 
 
-- ``.NET FULL Framework (C#, VB)``
+- ``.NET FULL Framework (C#)``
 - ``.NET CORE 2.X, 3.X``
 - ``.NET Framework 5, 6, 7``
 - ``ASP.NET MVC (C#)``
 - ``Typescript``
+- ``Visual Basic (.net, 6)``
 - ``JavaScript, HTML e CSS``
 - ``SQL Server Integration Services (SSIS)``
 - ``Oracle 12c``
