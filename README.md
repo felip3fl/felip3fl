@@ -11,7 +11,7 @@
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">&nbsp;&nbsp;
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">&nbsp;&nbsp;
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;&nbsp;
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">&nbsp;&nbsp;
+    <img width="50" src="https://user-images.githubusercontent.com/20684484/221182817-b0c7649f-a4da-45c9-9cd9-6a20751240d3.png">&nbsp;&nbsp;
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">&nbsp;&nbsp;
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">&nbsp;&nbsp;
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">&nbsp;&nbsp;
@@ -22,9 +22,6 @@
 </div>
 
 <br>
-
-
-
 
 <br>
 
