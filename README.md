@@ -11,8 +11,8 @@
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">&nbsp;&nbsp;
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">&nbsp;&nbsp;
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;&nbsp;
-    <img width="50" src="https://raw.githubusercontent.com/felip3fl/felip3fl/58f60c1ff28ddf190b308eaa6326b7e491633380/Material/Icon/visual-studio.svg">&nbsp;&nbsp;
-    <img width="50" src="https://raw.githubusercontent.com/felip3fl/felip3fl/58f60c1ff28ddf190b308eaa6326b7e491633380/Material/Icon/vscode.svg">&nbsp;&nbsp;
+    <img width="50" src="https://github.com/felip3fl/felip3fl/blob/main/Material/Icon/visual-studio.svg">&nbsp;&nbsp;
+    <img width="50" src="https://github.com/felip3fl/felip3fl/blob/main/Material/Icon/vscode.svg">&nbsp;&nbsp;
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">&nbsp;&nbsp;
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">&nbsp;&nbsp;
     <img width="50" src="https://user-images.githubusercontent.com/20684484/221180847-4c5efc03-adbd-4ec6-8764-903d68ac50b4.png">&nbsp;&nbsp;
