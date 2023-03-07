@@ -43,7 +43,7 @@ More than 9 years of experience in software development, applying what is most m
 
 ## ✔️ Techniques and Technologies
 
-<img width="380" align="right" src="https://user-images.githubusercontent.com/20684484/222292842-88b90637-edac-4da8-bfbe-b98bc9464f23.png">
+<img width="360" align="right" src="https://user-images.githubusercontent.com/20684484/222292842-88b90637-edac-4da8-bfbe-b98bc9464f23.png">
 
 
 
