@@ -8,17 +8,17 @@
   <br>
   <br>
   <div>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">&nbsp;&nbsp;
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">&nbsp;&nbsp;
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">&nbsp;&nbsp;
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;&nbsp;
-    <img width="50" src="https://raw.githubusercontent.com/felip3fl/felip3fl/1a6a66b6a143aab342cf2df18f56d8c1c7e6c8fb/Material/Icon/visual-studio.svg">&nbsp;&nbsp;
-    <img width="50" src="https://raw.githubusercontent.com/felip3fl/felip3fl/1a6a66b6a143aab342cf2df18f56d8c1c7e6c8fb/Material/Icon/vscode.svg">&nbsp;&nbsp;
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">&nbsp;&nbsp;
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">&nbsp;&nbsp;
-    <img width="50" src="https://user-images.githubusercontent.com/20684484/221180847-4c5efc03-adbd-4ec6-8764-903d68ac50b4.png">&nbsp;&nbsp;
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">&nbsp;&nbsp;
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">&nbsp;&nbsp;
+    <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">&nbsp;&nbsp;
+    <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">&nbsp;&nbsp;
+    <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">&nbsp;&nbsp;
+    <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;&nbsp;
+    <img width="55" src="https://raw.githubusercontent.com/felip3fl/felip3fl/1a6a66b6a143aab342cf2df18f56d8c1c7e6c8fb/Material/Icon/visual-studio.svg">&nbsp;&nbsp;
+    <img width="55" src="https://raw.githubusercontent.com/felip3fl/felip3fl/1a6a66b6a143aab342cf2df18f56d8c1c7e6c8fb/Material/Icon/vscode.svg">&nbsp;&nbsp;
+    <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">&nbsp;&nbsp;
+    <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">&nbsp;&nbsp;
+    <img width="55" src="https://user-images.githubusercontent.com/20684484/221180847-4c5efc03-adbd-4ec6-8764-903d68ac50b4.png">&nbsp;&nbsp;
+    <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">&nbsp;&nbsp;
+    <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">&nbsp;&nbsp;
   </div>
 </div>
 
