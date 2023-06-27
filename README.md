@@ -5,6 +5,12 @@
 
   <h3>FELIPE LIMA</h3>
   A software development
+
+<h3 align="center"> 
+<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-purple">
+<img src="https://img.shields.io/badge/PROJECT%20VERSION-10.0-red">
+</h3>
+  
   <br>
   <br>
   <div>
