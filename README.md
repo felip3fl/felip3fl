@@ -7,8 +7,8 @@
   A software development
 
 <h3 align="center"> 
-<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-d5a078">
-<img src="https://img.shields.io/badge/PROJECT%20VERSION-10.0-d5a078">
+<img src="https://img.shields.io/badge/MY%20STATUS-EM%20DESENVOLVIMENTO-bf8e6b">
+<img src="https://img.shields.io/badge/YEARS%20OF%20EXPERIENCE-10.0-bf8e6b">
 </h3>
   
   <br>
