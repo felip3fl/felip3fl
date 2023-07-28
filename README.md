@@ -42,7 +42,7 @@ More than 10 years of experience in software development, applying what is most 
 
 - `1º Project`: [Project FL Churros](https://github.com/felip3fl/FL_CHURROS) ``Visual Basic``
 - `2º Project`: here is the description of the project that I will put ``C#`` ``Angular``
-- `3º Project`: here is the description of the project that I will put ``C#`` ``XAMARIN``
+- `3º Project`: here is the description of the project that I will put ``XAMARIN`` ``C#``
 
 <br>
 
