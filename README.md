@@ -40,9 +40,9 @@ More than 10 years of experience in software development, applying what is most 
 
 ## 💼 Main works / projects
 
-- `Project`: [FL Churros](https://github.com/felip3fl/FL_CHURROS)
-- `Project`: here is the description of the project that I will put 
-- `Project`: here is the description of the project that I will put 
+- `1º Project`: [Project FL Churros](https://github.com/felip3fl/FL_CHURROS)
+- `2º Project`: here is the description of the project that I will put 
+- `3º Project`: here is the description of the project that I will put 
 
 <br>
 
