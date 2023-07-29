@@ -41,7 +41,7 @@ More than 10 years of experience in software development, applying what is most 
 ## 💼 Main works / projects
 
 - `1º Project`: [Project FL Churros](https://github.com/felip3fl/FL_CHURROS) ``Visual Basic``
-- `2º Project`: https://github.com/felip3fl/DMAC_ALERTA ``Javascript`` ``Visual Basic``
+- `2º Project`: [DMAC Alerta](https://github.com/felip3fl/DMAC_ALERTA) ``Javascript`` ``Visual Basic``
 - `3º Project`: here is the description of the project that I will put ``XAMARIN`` ``C#``
 
 <br>
