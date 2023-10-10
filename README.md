@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/20684484/221721862-91be0ddf-0167-4f86-acc7-a568267761fc.png" width="200">
      
 
-  <h3>FELIPE LIMA</h3>
+  FELIPE LIMA <br>
   A software development
 
 <p align="center"> 
