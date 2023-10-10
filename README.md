@@ -6,10 +6,10 @@
   <h3>FELIPE LIMA</h3>
   A software development
 
-<h3 align="center"> 
+<p align="center"> 
 <img src="https://img.shields.io/badge/MY%20STATUS-EM%20DESENVOLVIMENTO-red">
 <img src="https://img.shields.io/badge/YEARS%20OF%20EXPERIENCE-10.0-red">
-</h3>
+</p>
   
   <br>
   <br>
