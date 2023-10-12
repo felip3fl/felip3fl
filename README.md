@@ -3,8 +3,8 @@
     <img src="https://user-images.githubusercontent.com/20684484/221721862-91be0ddf-0167-4f86-acc7-a568267761fc.png" width="200">
      
 
-  FELIPE LIMA <br>
-  A software development
+  <h3>FELIPE LIMA</h3> 
+  A software development <BR><BR>
 
 <p align="center"> 
 <img src="https://img.shields.io/badge/MY%20STATUS-EM%20DESENVOLVIMENTO-red">
