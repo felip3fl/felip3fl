@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/YEARS%20OF%20EXPERIENCE-10.0-red">
 </p>
   
-  <br>
+  
   <br>
   <div>
     <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">&nbsp;&nbsp;
