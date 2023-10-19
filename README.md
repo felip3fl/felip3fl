@@ -69,7 +69,7 @@ More than 10 years of experience in software development, applying what is most 
 - ``Flutter``
 - ``MongoDB``
 - ``Xamarin``
-- ``Angular 11, 13, 14, 15 and 16``
+- ``Angular 11, 12, ..., 16``
 - ``Regex``
 - ``Docker``
 - ``GIT``
