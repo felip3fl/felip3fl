@@ -55,7 +55,7 @@ More than 10 years of experience in software development, applying what is most 
 
 - ``.NET FULL Framework 4.x (C#)``
 - ``.NET CORE 2.X, 3.X``
-- ``.NET Framework 5, 6, 7, 8 (Beta)``
+- ``.NET 5, 6, 7, 8 and 9``
 - ``ASP.NET MVC (C#)``
 - ``Typescript``
 - ``Visual Basic (.net, 6)``
