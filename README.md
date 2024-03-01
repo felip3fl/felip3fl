@@ -85,9 +85,12 @@ You can click the Preview link to take a look at your changes.
 
 ## 📈 Stats
 
+
 <a href="https://github.com/felip3fl">
- <img height=230vh src="https://github-readme-stats-eight-theta.vercel.app/api?username=felip3fl&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&"/>
- <img height=230vh src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felip3fl&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
+ <img height=230vh src="https://github-readme-stats.vercel.app/api?username=felip3fl&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&border_radius=1"/>
+
+ <img height=230vh src="https://github-readme-stats.vercel.app/api/top-langs/?username=felip3fl&hide_border=true&layout=compact&langs_count=8&theme=dracula&border_radius=1"/>
+ 
 </a>
 
 <br>
