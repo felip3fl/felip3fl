@@ -87,9 +87,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> 
 
- <img height=245vh  border=100px src="https://github-readme-stats.vercel.app/api?username=felip3fl&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&border_radius=1&border_color=41354A&bg_color=DEG,2F2736,282A36&rank_icon=github"/>
+ <img height=240vh  border=100px src="https://github-readme-stats.vercel.app/api?username=felip3fl&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&border_radius=1&border_color=41354A&bg_color=DEG,2F2736,282A36&rank_icon=github"/>
 
- <img height=245vh src="https://github-readme-stats.vercel.app/api/top-langs/?username=felip3fl&layout=compact&langs_count=8&theme=dracula&border_radius=1&border_color=41354A&bg_color=DEG,2F2736,282A36"/>
+ <img height=240vh src="https://github-readme-stats.vercel.app/api/top-langs/?username=felip3fl&layout=compact&langs_count=8&theme=dracula&border_radius=1&border_color=41354A&bg_color=DEG,2F2736,282A36"/>
 
 </p>
 
