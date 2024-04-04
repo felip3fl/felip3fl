@@ -4,7 +4,7 @@
      
 
   <h3>FELIPE LIMA</h3> 
-  A software development <BR><BR>
+  software development <BR><BR>
 
 <p align="center"> 
 <img src="https://img.shields.io/badge/MY%20STATUS-EM%20DESENVOLVIMENTO-red">
