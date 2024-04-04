@@ -7,8 +7,8 @@
   software development <BR><BR>
 
 <p align="center"> 
-<img src="https://img.shields.io/badge/MY%20STATUS-EM%20DESENVOLVIMENTO-red">
-<img src="https://img.shields.io/badge/YEARS%20OF%20EXPERIENCE-10.0-red">
+<img src="https://img.shields.io/badge/MY%20STATUS-EM%20DESENVOLVIMENTO-a679dc">
+<img src="https://img.shields.io/badge/YEARS%20OF%20EXPERIENCE-11.2-c4473a">
 </p>
   
   
