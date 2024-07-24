@@ -4,11 +4,11 @@
      
 
   <h3>FELIPE LIMA</h3> 
-  A software development <BR><BR>
+  software development <BR><BR>
 
 <p align="center"> 
-<img src="https://img.shields.io/badge/MY%20STATUS-EM%20DESENVOLVIMENTO-red">
-<img src="https://img.shields.io/badge/YEARS%20OF%20EXPERIENCE-10.0-red">
+<img src="https://img.shields.io/badge/MY%20STATUS-EM%20DESENVOLVIMENTO-00ace6">
+<img src="https://img.shields.io/badge/YEARS%20OF%20EXPERIENCE-11.2-00ace6">
 </p>
   
   
@@ -34,7 +34,7 @@
 
 ## 👨‍💻 Description
 
-More than 10 years of experience in software development, applying what is most modern in the technology. I work with dot.net platform (C# and VB), using SOLID and design patterns. Graduated in Computer Science, and post-graduated in Software Engineering at PUC-SP (Specialization).
+More than 11 years of experience in software development, applying what is most modern in the technology. I work with dot.net platform (C# and VB), using SOLID and design patterns. Graduated in Computer Science, and post-graduated in Software Engineering at PUC-SP (Specialization).
 
 <br>
 
