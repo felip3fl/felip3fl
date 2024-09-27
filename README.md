@@ -7,8 +7,8 @@
   software development <BR><BR>
 
 <p align="center"> 
-<img src="https://img.shields.io/badge/MY%20STATUS-EM%20DESENVOLVIMENTO-00ace6">
-<img src="https://img.shields.io/badge/YEARS%20OF%20EXPERIENCE-11.2-00ace6">
+<img src="https://img.shields.io/badge/MY%20STATUS-EM%20DESENVOLVIMENTO-a377da">
+<img src="https://img.shields.io/badge/YEARS%20OF%20EXPERIENCE-11.2-24abf2">
 </p>
   
   
@@ -25,6 +25,7 @@
     <img width="55" src="https://user-images.githubusercontent.com/20684484/221180847-4c5efc03-adbd-4ec6-8764-903d68ac50b4.png">&nbsp;&nbsp;
     <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">&nbsp;&nbsp;
     <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">&nbsp;&nbsp;
+    <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg">&nbsp;&nbsp;
   </div>
 </div>
 
